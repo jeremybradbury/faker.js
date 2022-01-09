@@ -1,5 +1,5 @@
 {
-  "name": "faker",
+  "name": "@jeremybradbury/faker",
   "description": "Generate massive amounts of fake contextual data",
   "version": "5.5.3",
   "contributors": [
@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/Faker.js.git"
+    "url": "http://github.com/jeremybradbury/Faker.js.git"
   },
   "scripts": {
     "browser": "./node_modules/.bin/gulp browser",
